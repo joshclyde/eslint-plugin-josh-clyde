@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-josh-clyde",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Rules for me, Josh Clyde.",
   "keywords": [
     "eslint",
